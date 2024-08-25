@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/ex-vel-expedita-impedit",
-  "version": "9.11.100",
+  "version": "9.11.101",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -478,5 +478,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/ex-vel-expedita-impedit/issues"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.1"
 }
